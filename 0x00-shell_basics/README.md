@@ -1,1 +1,1 @@
-this is a bash script
+shell basics
